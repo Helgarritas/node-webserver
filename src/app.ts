@@ -17,6 +17,5 @@ function main() {
 
   server.start();
 
-  console.log(  );
 
 }
